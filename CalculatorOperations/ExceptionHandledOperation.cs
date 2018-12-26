@@ -19,7 +19,7 @@ namespace CalculatorOperations
 
         public int Multiply(int num1, int num2)
         {
-            throw new NotImplementedException();
+            return num1 * num2;
         }
 
         public int Subtract(int num1, int num2)
