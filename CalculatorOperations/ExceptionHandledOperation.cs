@@ -9,7 +9,7 @@ namespace CalculatorOperations
     {
         public int Add(int num1, int num2)
         {
-            throw new NotImplementedException();
+            return num1 + num2;
         }
 
         public double Divide(int num1, int num2)
